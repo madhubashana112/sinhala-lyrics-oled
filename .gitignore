@@ -1,0 +1,6 @@
+/dist/
+/bin/
+/obj/
+__pycache__/
+*.user
+NotoSansSinhala-Variable.ttf
